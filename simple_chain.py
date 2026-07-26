@@ -26,3 +26,22 @@ response = chain.invoke({
 
 # Print final output
 print(response)
+
+
+
+"""
+Flow of the programm : -----------
+
+
+Input
+  ↓
+Prompt 
+  ↓
+Bedrock LLM
+  ↓
+Output Parser
+  ↓
+Final 
+
+
+"""
