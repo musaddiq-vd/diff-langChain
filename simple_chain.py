@@ -2,6 +2,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_aws import ChatBedrock
 
+
 # LLM: Calls Amazon Bedrock model
 llm = ChatBedrock(
     model_id="amazon.nova-pro-v1:0",
