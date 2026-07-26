@@ -41,7 +41,6 @@ Bedrock LLM
   ↓
 Output Parser
   ↓
-Final 
-
+Final text
 
 """
